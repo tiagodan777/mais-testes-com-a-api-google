@@ -3,8 +3,8 @@
 require __DIR__ . '/vendor/autoload.php';
 
 // Configurações
-$CLIENT_ID = '34321114946-1asfsueoamnacg7ee90nq96165l010ij.apps.googleusercontent.com'; // Substitua pelo seu ID do cliente
-$CLIENT_SECRET = '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'; // Substitua pelo seu Secret do cliente
+$CLIENT_ID = ''; // Substitua pelo seu ID do cliente
+$CLIENT_SECRET = ''; // Substitua pelo seu Secret do cliente
 $REDIRECT_URI = 'http://localhost:8888/mais-testes-com-a-api-google/teste3/oauth2callback.php';
 
 // Caminho para o arquivo de token
